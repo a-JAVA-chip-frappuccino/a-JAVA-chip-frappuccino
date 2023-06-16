@@ -20,9 +20,9 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-JAVA-chip-frappuccino&show_icons=true&theme=solarized-light&rank_icon=github)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=a-JAVA-chip-frappuccino&show_icons=true&theme=solarized-light&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-JAVA-chip-frappuccino&layout=compact&hide=jupyter%20notebook,ruby&theme=solarized-light)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-JAVA-chip-frappuccino&layout=compact&hide=jupyter%20notebook,ruby&theme=solarized-light)
 
 
 
