@@ -3,7 +3,6 @@
 ## 🔭 I'm currently working as a full-stack software engineer for a startup, and in my free time inspiring new learners in tech and coming up with fun algorithms! 🔭
 
 <br />
-<br />
 
 #### 🍵 A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
 #### 💚 Pronouns: she/her
