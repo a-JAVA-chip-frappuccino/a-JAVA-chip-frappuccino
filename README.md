@@ -1,15 +1,17 @@
 ![Header](./images/banner.png)
 
-- 🔭 I'm currently working as a full-stack software engineer for a startup, and in my free time inspiring new learners in tech and coming up with fun algorithms!
+## 🔭 I'm currently working as a full-stack software engineer for a startup, and in my free time inspiring new learners in tech and coming up with fun algorithms! 🔭
 
-- 🍵 A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
+<br />
+<br />
 
-- 💚 Pronouns: she/her
+#### 🍵 A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
+#### 💚 Pronouns: she/her
 
-- 📫 Keep in touch:
+<br />
+<br />
 
-<a href = 'https://www.linkedin.com/in/eleanor-kelman/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
-<a href = 'https://medium.com/@ekelman3'><img src = 'https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
+<a href = 'https://www.linkedin.com/in/eleanor-kelman/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> <a href = 'https://medium.com/@ekelman3'><img src = 'https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
 
 <br />
 
