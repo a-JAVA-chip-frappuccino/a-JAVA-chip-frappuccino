@@ -1,12 +1,10 @@
-# Hello hello, I'm Eleanor Kelman!
-
-## I'm a Full-Stack Software Engineering Instructor and Computer Science Instructor!
+![Header](./images/banner.png)
 
 - 🔭 I'm currently working as a full-stack software engineer for a startup, and in my free time inspiring new learners in tech and coming up with fun algorithms!
 
-- 💚 Pronouns: she/her
-
 - 🍵 A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
+
+- 💚 Pronouns: she/her
 
 - 📫 Keep in touch:
 
