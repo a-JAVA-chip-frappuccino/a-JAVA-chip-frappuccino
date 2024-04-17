@@ -2,13 +2,11 @@
 
 ## I'm a Full-Stack Software Engineering Instructor and Computer Science Instructor!
 
-- 🔭 I'm currently teaching full- and part-time and inspiring new learners.
+- 🔭 I'm currently working as a full-stack software engineer for a startup, and in my free time inspiring new learners in tech and coming up with fun algorithms!
 
-- 🌱 I'm currently working on a library full-stack project with a relational DB that stores all my favorite books.
+- 💚 Pronouns: she/her
 
-- 😄 Pronouns: she/her
-
-- ⚡ A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
+- 🍵 A fun fact about me is that I'm obsessed with crafting lattes! I live for my afternoon tea.
 
 - 📫 Keep in touch:
 
